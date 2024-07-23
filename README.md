@@ -9,7 +9,7 @@ Example scripts for 2024 faculty enrichment program in applied malaria modeling 
 
 ➕ - Bonus Exercises
 
-### Technical track (EMOD)
+### Technical track one (EMOD)
 
 **Overview:**
 Exercises usually consist of a simulation and an analyzer of simulation outputs. In some weeks, additional scripts exist to prepare simulation inputs or generate additional outputs and plots, or for model calibration as described in the instructions for the respective weeks.
